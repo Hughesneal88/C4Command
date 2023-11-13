@@ -36,7 +36,7 @@ class Console(Cmd):
 		"""About the Program"""
 		info ="""C4Command <-|=|
 		This is a console version for the C4Command C2
-		It is a project by Isotone
+		It is a project by Allison
 		"""
 		
 	def do_exit(self, inputted):
